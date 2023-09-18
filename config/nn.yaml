@@ -1,0 +1,2 @@
+latency: 0  # 7 = 2 (NN forward pass) + 5 (featurizer)
+network: CNN

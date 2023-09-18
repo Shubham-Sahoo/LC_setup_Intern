@@ -1,0 +1,27 @@
+#actor: NNResidualActor
+#epochs: 1000
+#passes_per_epoch: 10
+#buffer_size: 300
+#batch_size: 300
+#horizon: 50
+#learning_rate: 3.0e-5
+#loss: smooth_clipped_ratio
+#eval_every: 20
+
+actor: NNResidualActor
+epochs: 1000
+passes_per_epoch: 10
+buffer_size: 200
+batch_size: 200
+horizon: 10
+learning_rate: 3.0e-5
+loss: smooth_clipped_ratio
+eval_every: 20
+
+#epochs: 1000
+#passes_per_epoch: 10
+#buffer_size: 250
+#batch_size: 50
+#horizon: 1
+#learning_rate: 3.0e-5
+#loss: smooth_clipped_ratio

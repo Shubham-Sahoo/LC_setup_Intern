@@ -1,0 +1,3 @@
+# Actual: 250 + 10 (validate curtain behind frontier)
+# Tuned so that a single timestep is 80ms. 80 - 2 * 17
+latency: 46

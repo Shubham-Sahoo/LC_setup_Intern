@@ -1,0 +1,3 @@
+[submodule "lcsim"]
+	path = lcsim
+	url = git@github.com:soulslicer/lcsim.git
